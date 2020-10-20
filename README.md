@@ -1,6 +1,6 @@
 # Handwritten-Digit-Recognizer
 
-> ### Applying different algoritms to recognize handwritten digit ([MNIST](https://www.kaggle.com/c/digit-recognizer/data))
+> ### Applying different algoritms to recognize handwritten digits ([MNIST](https://www.kaggle.com/c/digit-recognizer/data))
 
 > Got,
 > - 84% accuracy using Decision Tree Classifier
